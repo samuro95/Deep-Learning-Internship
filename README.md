@@ -1,4 +1,4 @@
-# Deep-Learning-Internship
+# Neural Netowrk compression and acceleration on GPU 
 
 6 months project about Neural Network compression and inference acceleration.
 You can find here : 
